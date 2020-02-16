@@ -1,0 +1,12 @@
+{
+  "name": "Braking",
+  "version": "4.0.0",
+  "description": "Braking est un bot discord de modération simplifié avec des petit jeu, des commandes de gif, ce petit bot vous aidera au quotidien dans la modération de votre serveur discord !",
+  "main": "main.js",
+  "repository": "https://github.com/HelloDev-commits/Braking.git",
+  "author": "HelloDev-commits <warcraftgfkmr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
